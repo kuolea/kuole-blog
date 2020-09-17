@@ -1,0 +1,347 @@
+2020-09-16 09:26:18.369  INFO 12172 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Starting KuoleBlogApplication on DESKTOP-C0VVU4I with PID 12172 (D:\PracticalTraining\kuole-blog\target\classes started by ASUS in D:\PracticalTraining\kuole-blog)
+2020-09-16 09:26:18.392  INFO 12172 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : The following profiles are active: dev
+2020-09-16 09:26:18.550  INFO 12172 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-16 09:26:18.550  INFO 12172 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-16 09:26:22.917  INFO 12172 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-16 09:26:22.948  INFO 12172 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-16 09:26:22.948  INFO 12172 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-09-16 09:26:22.951  INFO 12172 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-09-16 09:26:22.952  INFO 12172 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-09-16 09:26:22.952  INFO 12172 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-09-16 09:26:23.057  INFO 12172 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-09-16 09:26:23.257  INFO 12172 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-16 09:26:23.258  INFO 12172 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4707 ms
+2020-09-16 09:26:24.766  INFO 12172 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-16 09:26:24.967  INFO 12172 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-16 09:26:26.312  INFO 12172 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-16 09:26:26.372  INFO 12172 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-16 09:26:26.392  INFO 12172 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Started KuoleBlogApplication in 9.824 seconds (JVM running for 14.374)
+2020-09-16 09:35:41.724  INFO 12172 --- [http-nio-8080-exec-1] o.apache.tomcat.util.http.parser.Cookie  : A cookie header was received [1598513426,1598780184,1598835926] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2020-09-16 09:35:41.736  INFO 12172 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-16 09:35:41.736  INFO 12172 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-09-16 09:35:41.748  INFO 12172 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 12 ms
+2020-09-16 09:35:41.829  INFO 12172 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-09-16 09:35:42.363  INFO 12172 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-09-16 10:01:35.242  INFO 5924 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Starting KuoleBlogApplication on DESKTOP-C0VVU4I with PID 5924 (D:\PracticalTraining\kuole-blog\target\classes started by ASUS in D:\PracticalTraining\kuole-blog)
+2020-09-16 10:01:35.246  INFO 5924 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : The following profiles are active: dev
+2020-09-16 10:01:35.446  INFO 5924 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-16 10:01:35.454  INFO 5924 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-16 10:01:37.865  INFO 5924 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-16 10:01:37.878  INFO 5924 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-16 10:01:37.879  INFO 5924 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-09-16 10:01:37.882  INFO 5924 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-09-16 10:01:37.883  INFO 5924 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-09-16 10:01:37.883  INFO 5924 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-09-16 10:01:37.888  INFO 5924 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-09-16 10:01:38.107  INFO 5924 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-16 10:01:38.107  INFO 5924 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2652 ms
+2020-09-16 10:01:39.777  INFO 5924 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-16 10:01:40.034  INFO 5924 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-16 10:01:40.946  INFO 5924 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-16 10:01:41.014  INFO 5924 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-16 10:01:41.031  INFO 5924 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Started KuoleBlogApplication in 6.806 seconds (JVM running for 8.943)
+2020-09-16 10:03:06.928  INFO 5924 --- [http-nio-8080-exec-1] o.apache.tomcat.util.http.parser.Cookie  : A cookie header was received [1598513426,1598780184,1598835926; JSESSIONID=C0217F5069A60632EA2D7AED82AA343C] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2020-09-16 10:03:06.939  INFO 5924 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-16 10:03:06.939  INFO 5924 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-09-16 10:03:06.953  INFO 5924 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 14 ms
+2020-09-16 10:03:06.990  INFO 5924 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-09-16 10:03:07.152  INFO 5924 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-09-16 10:07:15.396  WARN 5924 --- [http-nio-8080-exec-9] o.springframework.validation.DataBinder  : Skipping URI variable 'id' because request contains bind value with same name.
+2020-09-16 10:07:15.409 ERROR 5924 --- [http-nio-8080-exec-9] c.k.k.hander.ControllerExceptionHandler  : Requst URL : http://localhost:8080/admin/pictures/21，Exception : {}
+
+org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'picture' in 'class com.kuole.kuoleblog.entity.Picture'
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:92)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:440)
+	at com.sun.proxy.$Proxy71.update(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.update(SqlSessionTemplate.java:287)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:67)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:144)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:85)
+	at com.sun.proxy.$Proxy84.updatePicture(Unknown Source)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:139)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:212)
+	at com.sun.proxy.$Proxy85.updatePicture(Unknown Source)
+	at com.kuole.kuoleblog.service.impl.PictureServiceImpl.updatePicture(PictureServiceImpl.java:39)
+	at com.kuole.kuoleblog.controller.admin.PictureController.editPost(PictureController.java:73)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'picture' in 'class com.kuole.kuoleblog.entity.Picture'
+	at org.apache.ibatis.reflection.Reflector.getGetInvoker(Reflector.java:373)
+	at org.apache.ibatis.reflection.MetaClass.getGetInvoker(MetaClass.java:163)
+	at org.apache.ibatis.reflection.wrapper.BeanWrapper.getBeanProperty(BeanWrapper.java:162)
+	at org.apache.ibatis.reflection.wrapper.BeanWrapper.get(BeanWrapper.java:49)
+	at org.apache.ibatis.reflection.MetaObject.getValue(MetaObject.java:122)
+	at org.apache.ibatis.scripting.xmltags.DynamicContext$ContextMap.get(DynamicContext.java:102)
+	at org.apache.ibatis.scripting.xmltags.DynamicContext$ContextAccessor.getProperty(DynamicContext.java:113)
+	at org.apache.ibatis.ognl.OgnlRuntime.getProperty(OgnlRuntime.java:3233)
+	at org.apache.ibatis.ognl.ASTProperty.getValueBody(ASTProperty.java:114)
+	at org.apache.ibatis.ognl.SimpleNode.evaluateGetValueBody(SimpleNode.java:212)
+	at org.apache.ibatis.ognl.SimpleNode.getValue(SimpleNode.java:258)
+	at org.apache.ibatis.ognl.ASTNotEq.getValueBody(ASTNotEq.java:50)
+	at org.apache.ibatis.ognl.SimpleNode.evaluateGetValueBody(SimpleNode.java:212)
+	at org.apache.ibatis.ognl.SimpleNode.getValue(SimpleNode.java:258)
+	at org.apache.ibatis.ognl.Ognl.getValue(Ognl.java:560)
+	at org.apache.ibatis.ognl.Ognl.getValue(Ognl.java:524)
+	at org.apache.ibatis.scripting.xmltags.OgnlCache.getValue(OgnlCache.java:46)
+	at org.apache.ibatis.scripting.xmltags.ExpressionEvaluator.evaluateBoolean(ExpressionEvaluator.java:32)
+	at org.apache.ibatis.scripting.xmltags.IfSqlNode.apply(IfSqlNode.java:34)
+	at org.apache.ibatis.scripting.xmltags.MixedSqlNode.lambda$apply$0(MixedSqlNode.java:32)
+	at java.util.ArrayList.forEach(ArrayList.java:1257)
+	at org.apache.ibatis.scripting.xmltags.MixedSqlNode.apply(MixedSqlNode.java:32)
+	at org.apache.ibatis.scripting.xmltags.TrimSqlNode.apply(TrimSqlNode.java:55)
+	at org.apache.ibatis.scripting.xmltags.MixedSqlNode.lambda$apply$0(MixedSqlNode.java:32)
+	at java.util.ArrayList.forEach(ArrayList.java:1257)
+	at org.apache.ibatis.scripting.xmltags.MixedSqlNode.apply(MixedSqlNode.java:32)
+	at org.apache.ibatis.scripting.xmltags.DynamicSqlSource.getBoundSql(DynamicSqlSource.java:39)
+	at org.apache.ibatis.mapping.MappedStatement.getBoundSql(MappedStatement.java:297)
+	at org.apache.ibatis.executor.statement.BaseStatementHandler.<init>(BaseStatementHandler.java:64)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.<init>(PreparedStatementHandler.java:41)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.<init>(RoutingStatementHandler.java:46)
+	at org.apache.ibatis.session.Configuration.newStatementHandler(Configuration.java:592)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:48)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy106.update(Unknown Source)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:426)
+	... 69 common frames omitted
+
+2020-09-16 10:07:15.411  WARN 5924 --- [http-nio-8080-exec-9] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.reflection.ReflectionException: There is no getter for property named 'picture' in 'class com.kuole.kuoleblog.entity.Picture']
+2020-09-16 10:08:45.261  INFO 3600 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Starting KuoleBlogApplication on DESKTOP-C0VVU4I with PID 3600 (D:\PracticalTraining\kuole-blog\target\classes started by ASUS in D:\PracticalTraining\kuole-blog)
+2020-09-16 10:08:45.273  INFO 3600 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : The following profiles are active: dev
+2020-09-16 10:08:45.358  INFO 3600 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-16 10:08:45.359  INFO 3600 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-16 10:08:47.891  INFO 3600 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-16 10:08:47.907  INFO 3600 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-16 10:08:47.908  INFO 3600 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-09-16 10:08:47.911  INFO 3600 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-09-16 10:08:47.913  INFO 3600 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-09-16 10:08:47.913  INFO 3600 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-09-16 10:08:47.919  INFO 3600 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-09-16 10:08:48.107  INFO 3600 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-16 10:08:48.108  INFO 3600 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2749 ms
+2020-09-16 10:08:49.874  INFO 3600 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-16 10:08:50.089  INFO 3600 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-16 10:08:51.056  INFO 3600 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-16 10:08:51.132  INFO 3600 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-16 10:08:51.156  INFO 3600 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Started KuoleBlogApplication in 7.124 seconds (JVM running for 9.259)
+2020-09-16 10:08:51.312  INFO 3600 --- [http-nio-8080-exec-1] o.apache.tomcat.util.http.parser.Cookie  : A cookie header was received [1598513426,1598780184,1598835926; JSESSIONID=F998822A9BB809DEDAB03DDB9EAC0046] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2020-09-16 10:08:51.325  INFO 3600 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-16 10:08:51.326  INFO 3600 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-09-16 10:08:51.350  INFO 3600 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 24 ms
+2020-09-16 10:08:51.410  INFO 3600 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-09-16 10:08:51.653  INFO 3600 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-09-16 10:09:06.079  WARN 3600 --- [http-nio-8080-exec-9] o.springframework.validation.DataBinder  : Skipping URI variable 'id' because request contains bind value with same name.
+2020-09-16 10:21:07.017  INFO 3092 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Starting KuoleBlogApplication on DESKTOP-C0VVU4I with PID 3092 (D:\PracticalTraining\kuole-blog\target\classes started by ASUS in D:\PracticalTraining\kuole-blog)
+2020-09-16 10:21:07.021  INFO 3092 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : The following profiles are active: dev
+2020-09-16 10:21:07.138  INFO 3092 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-16 10:21:07.138  INFO 3092 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-16 10:21:09.052  INFO 3092 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-16 10:21:09.065  INFO 3092 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-16 10:21:09.065  INFO 3092 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-09-16 10:21:09.067  INFO 3092 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-09-16 10:21:09.068  INFO 3092 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-09-16 10:21:09.068  INFO 3092 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-09-16 10:21:09.071  INFO 3092 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-09-16 10:21:09.160  INFO 3092 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-16 10:21:09.160  INFO 3092 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2021 ms
+2020-09-16 10:21:10.063  INFO 3092 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-16 10:21:10.168  INFO 3092 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-16 10:21:10.647  INFO 3092 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-16 10:21:10.701  INFO 3092 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-16 10:21:10.713  INFO 3092 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Started KuoleBlogApplication in 4.953 seconds (JVM running for 7.614)
+2020-09-16 10:23:03.572  INFO 3092 --- [http-nio-8080-exec-1] o.apache.tomcat.util.http.parser.Cookie  : A cookie header was received [1598513426,1598780184,1598835926; JSESSIONID=ADC30DCB4F7EC2F2D28E07A2E0C7AE6D] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2020-09-16 10:23:03.580  INFO 3092 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-16 10:23:03.581  INFO 3092 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-09-16 10:23:03.597  INFO 3092 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 16 ms
+2020-09-16 10:23:03.642  INFO 3092 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-09-16 10:23:03.808  INFO 3092 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-09-16 10:31:08.939  INFO 3092 --- [Thread-179] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-16 10:31:08.940  INFO 3092 --- [Thread-179] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-09-16 10:31:08.964  INFO 3092 --- [Thread-179] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-09-16 10:31:09.271  INFO 3092 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Starting KuoleBlogApplication on DESKTOP-C0VVU4I with PID 3092 (D:\PracticalTraining\kuole-blog\target\classes started by ASUS in D:\PracticalTraining\kuole-blog)
+2020-09-16 10:31:09.271  INFO 3092 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : The following profiles are active: dev
+2020-09-16 10:31:10.425  INFO 3092 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-16 10:31:10.426  INFO 3092 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-16 10:31:10.426  INFO 3092 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-09-16 10:31:10.427  INFO 3092 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-09-16 10:31:10.427  INFO 3092 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-09-16 10:31:10.428  INFO 3092 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-09-16 10:31:10.429  INFO 3092 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-09-16 10:31:10.474  INFO 3092 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-16 10:31:10.475  INFO 3092 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1201 ms
+2020-09-16 10:31:11.047  INFO 3092 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-16 10:31:11.104  INFO 3092 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-16 10:31:11.494  INFO 3092 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-16 10:31:11.507  INFO 3092 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-16 10:31:11.511  INFO 3092 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Started KuoleBlogApplication in 2.295 seconds (JVM running for 608.412)
+2020-09-16 10:31:11.513  INFO 3092 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-09-16 10:33:01.189  INFO 14068 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Starting KuoleBlogApplication on DESKTOP-C0VVU4I with PID 14068 (D:\PracticalTraining\kuole-blog\target\classes started by ASUS in D:\PracticalTraining\kuole-blog)
+2020-09-16 10:33:01.191  INFO 14068 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : The following profiles are active: dev
+2020-09-16 10:33:01.269  INFO 14068 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-16 10:33:01.269  INFO 14068 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-16 10:33:03.900  INFO 14068 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-16 10:33:03.911  INFO 14068 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-16 10:33:03.912  INFO 14068 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-09-16 10:33:03.914  INFO 14068 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-09-16 10:33:03.914  INFO 14068 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-09-16 10:33:03.914  INFO 14068 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-09-16 10:33:03.918  INFO 14068 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-09-16 10:33:04.026  INFO 14068 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-16 10:33:04.027  INFO 14068 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2756 ms
+2020-09-16 10:33:05.069  INFO 14068 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-16 10:33:05.248  INFO 14068 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-16 10:33:05.807  INFO 14068 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-16 10:33:05.858  INFO 14068 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-16 10:33:05.880  INFO 14068 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Started KuoleBlogApplication in 5.793 seconds (JVM running for 7.804)
+2020-09-16 10:33:10.968  INFO 14068 --- [http-nio-8080-exec-1] o.apache.tomcat.util.http.parser.Cookie  : A cookie header was received [1598513426,1598780184,1598835926; JSESSIONID=ADC30DCB4F7EC2F2D28E07A2E0C7AE6D] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2020-09-16 10:33:10.979  INFO 14068 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-16 10:33:10.979  INFO 14068 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-09-16 10:33:10.995  INFO 14068 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 16 ms
+2020-09-16 10:33:11.042  INFO 14068 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-09-16 10:33:11.172  INFO 14068 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-09-16 10:41:22.171  INFO 12740 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Starting KuoleBlogApplication on DESKTOP-C0VVU4I with PID 12740 (D:\PracticalTraining\kuole-blog\target\classes started by ASUS in D:\PracticalTraining\kuole-blog)
+2020-09-16 10:41:22.175  INFO 12740 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : The following profiles are active: dev
+2020-09-16 10:41:22.286  INFO 12740 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-16 10:41:22.287  INFO 12740 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-16 10:41:24.662  INFO 12740 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-16 10:41:24.676  INFO 12740 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-16 10:41:24.676  INFO 12740 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-09-16 10:41:24.679  INFO 12740 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-09-16 10:41:24.679  INFO 12740 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-09-16 10:41:24.680  INFO 12740 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-09-16 10:41:24.684  INFO 12740 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-09-16 10:41:25.003  INFO 12740 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-16 10:41:25.003  INFO 12740 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2716 ms
+2020-09-16 10:41:26.458  INFO 12740 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-16 10:41:26.591  INFO 12740 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-16 10:41:27.089  INFO 12740 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-16 10:41:27.131  INFO 12740 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-16 10:41:27.142  INFO 12740 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Started KuoleBlogApplication in 6.317 seconds (JVM running for 8.542)
+2020-09-16 10:41:53.772  INFO 12740 --- [http-nio-8080-exec-1] o.apache.tomcat.util.http.parser.Cookie  : A cookie header was received [1598513426,1598780184,1598835926; JSESSIONID=ADC30DCB4F7EC2F2D28E07A2E0C7AE6D] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2020-09-16 10:41:53.793  INFO 12740 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-16 10:41:53.794  INFO 12740 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-09-16 10:41:53.816  INFO 12740 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 22 ms
+2020-09-16 10:41:53.868  INFO 12740 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-09-16 10:41:54.032  INFO 12740 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-09-16 14:37:19.439  INFO 14500 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Starting KuoleBlogApplication on DESKTOP-C0VVU4I with PID 14500 (D:\PracticalTraining\kuole-blog\target\classes started by ASUS in D:\PracticalTraining\kuole-blog)
+2020-09-16 14:37:19.444  INFO 14500 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : The following profiles are active: dev
+2020-09-16 14:37:19.525  INFO 14500 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-16 14:37:19.526  INFO 14500 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-16 14:37:21.669  INFO 14500 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-16 14:37:21.685  INFO 14500 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-16 14:37:21.686  INFO 14500 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-09-16 14:37:21.690  INFO 14500 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-09-16 14:37:21.690  INFO 14500 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-09-16 14:37:21.690  INFO 14500 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-09-16 14:37:21.695  INFO 14500 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-09-16 14:37:21.958  INFO 14500 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-16 14:37:21.959  INFO 14500 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2433 ms
+2020-09-16 14:37:23.207  INFO 14500 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-16 14:37:23.316  INFO 14500 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-16 14:37:23.817  INFO 14500 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-16 14:37:23.863  INFO 14500 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-16 14:37:23.875  INFO 14500 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Started KuoleBlogApplication in 5.494 seconds (JVM running for 7.249)
+2020-09-16 14:39:19.209  INFO 14500 --- [http-nio-8080-exec-1] o.apache.tomcat.util.http.parser.Cookie  : A cookie header was received [1598513426,1598780184,1598835926] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2020-09-16 14:39:19.220  INFO 14500 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-16 14:39:19.221  INFO 14500 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-09-16 14:39:19.240  INFO 14500 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 19 ms
+2020-09-16 14:39:19.293  INFO 14500 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-09-16 14:39:19.455  INFO 14500 --- [http-nio-8080-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-09-16 14:45:44.833  INFO 9504 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Starting KuoleBlogApplication on DESKTOP-C0VVU4I with PID 9504 (D:\PracticalTraining\kuole-blog\target\classes started by ASUS in D:\PracticalTraining\kuole-blog)
+2020-09-16 14:45:44.836  INFO 9504 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : The following profiles are active: dev
+2020-09-16 14:45:44.889  INFO 9504 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-16 14:45:44.889  INFO 9504 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-16 14:45:46.731  INFO 9504 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-09-16 14:45:46.741  INFO 9504 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-16 14:45:46.742  INFO 9504 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-09-16 14:45:46.744  INFO 9504 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+2020-09-16 14:45:46.745  INFO 9504 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+2020-09-16 14:45:46.745  INFO 9504 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2020-09-16 14:45:46.749  INFO 9504 --- [restartedMain] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+2020-09-16 14:45:46.873  INFO 9504 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-16 14:45:46.873  INFO 9504 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1984 ms
+2020-09-16 14:45:47.916  INFO 9504 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-16 14:45:48.053  INFO 9504 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-09-16 14:45:48.583  INFO 9504 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-09-16 14:45:48.632  INFO 9504 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-09-16 14:45:48.645  INFO 9504 --- [restartedMain] c.kuole.kuoleblog.KuoleBlogApplication   : Started KuoleBlogApplication in 4.679 seconds (JVM running for 7.056)
+2020-09-16 14:45:48.717  INFO 9504 --- [http-nio-8080-exec-2] o.apache.tomcat.util.http.parser.Cookie  : A cookie header was received [1598513426,1598780184,1598835926; JSESSIONID=8A8593696DCBC37A2AEA791EC3CA545F] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2020-09-16 14:45:48.724  INFO 9504 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-16 14:45:48.724  INFO 9504 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-09-16 14:45:48.742  INFO 9504 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 17 ms
+2020-09-16 14:45:48.787  INFO 9504 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-09-16 14:45:48.993  INFO 9504 --- [http-nio-8080-exec-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.

@@ -1,0 +1,17 @@
+spring:
+  thymeleaf:
+    mode: HTML
+  profiles:
+    active: dev
+  messages:
+    basename: i18n/messages
+
+  devtools:
+    livereload:
+      enabled: true
+      port: 35729
+    restart:
+      enabled: true
+
+comment.avatar: /images/avatar.png
+message.avatar: /images/avatar.png
